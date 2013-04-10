@@ -17,5 +17,6 @@ Please see [IContextMenu][1] to learn how this works.
 [1]: http://msdn.microsoft.com/query/dev10.query?appId=Dev10IDEF1&l=EN-US&k=k(ICONTEXTMENU);k(TargetFrameworkMoniker-%22.NETFRAMEWORK%2cVERSION%3dV3.5%22);k(DevLang-CSHARP)&rd=true
 
 For any query/suggestion, you can mail me at varunkho at outlook dot com
+
 [Follow me on Twitter](http://twitter.com/varunkho)
 
