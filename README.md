@@ -4,6 +4,7 @@ Send to Dropbox
 This is a Windows Explorer extension primarily written to add a new item "Send to Dropbox" to Explorer context menu.
 This is a submenu that lists root-level folders in your default dropbox directory (c:\users\<username>\dropbox on Windows7) as such, if you click on a folder, it copies currently selected files/folders into that dropbox folder.
 So it gives you a quick way to share your files via dropbox without having to open dropbox folder.
+
 It also adds one more context menu option – Rename... – which gives you a quick way to rename a set of files by assigning a running number and/or a value as either prefix or suffix to them.
 
 This project is tested on Windows7 only. However, it should work on prior versions as well as on Windows8 (though you may test for incompatibility). 
